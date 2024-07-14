@@ -1,6 +1,6 @@
 # Buenas, Yo soy Sebastian Pardo(UserSCP) 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy estudiante de secundaria en Confederación Suiza, apasionado por aprender y codificar. Aquí hay un poco sobre mí:
+¡Bienvenido a mi perfil de GitHub! Soy estudiante de secundaria en Confederación Suiza, me gusta aprender logica y codificar en varios lenguajes. Aquí hay un poco sobre mí:
 
 ## 💻 Tecnologías y Idiomas
 
@@ -38,5 +38,45 @@
 ## 📫 Conéctate Conmigo
 - [Email](sebastian.pardo.scp@gmail.com)
 - [LinkedIn](en conversación)
+--Intereses: anime(de todo), juegos(minecraft), codificar(encuentrar y manejar logica), musica(Gustavo Cerati, Spinetta,c)  
 
+using System;
+
+namespace datosExtra
+{
+  public class Intereses
+  {        
+    protected string juego, codificar, deporte, pasatiempo;
+    protected string[] musica;
+    protected Anime anime;;
+    public Intereses(Anime anime)
+    {
+      this.anime=anime.all();
+      this.juego="Minecraft";
+      this.codificar="encuentrar y manejar logica";
+      this.musica = new string[] { "Gustavo Cerati", "Spinetta" , "Patricio Rey y sus Redonditos de Ricota" };  
+      ///son god 
+      this.deporte="futbol";
+      this.pasatiempo="Tocar la guitarra";
+    }
+      public void MostrarInformacion()
+        {
+            Console.WriteLine($"Juego: {juego}");
+            Console.WriteLine($"Codificar: {codificar}");
+            Console.WriteLine("Música: " + string.Join(", ", musica));
+            Console.WriteLine($"Deporte: {deporte}");
+            Console.WriteLine($"Pasatiempo: {pasatiempo}");
+            anime.All();
+        }
+  }
+  class Programa
+    {
+        static void Main(string[] args)
+        {
+            Anime miAnime = new Anime();
+            Intereses misIntereses = new Intereses(miAnime);
+            misIntereses.MostrarInformacion();
+        }
+    }
+}
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a oportunidades de colaboración y aprendizaje.
