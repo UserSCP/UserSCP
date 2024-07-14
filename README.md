@@ -11,11 +11,17 @@
 - **Python:** Explorando el análisis de datos, automatización y desarrollo web con frameworks.
 
 ### Ya dominas en:
-- **SQL**: Gestión y consultas de bases de datos.
-- **PHP**: scripting del lado del servidor y desarrollo web.
-- **HTML y CSS**: creación y diseño de páginas web.
-- **C#**: desarrollo de aplicaciones y juegos .NET con Unity.
-- **C++**: Programación de sistemas y desarrollo de software.
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
 (tengo fe)
 
 ## 📚 Educación
