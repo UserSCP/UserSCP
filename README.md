@@ -1,31 +1,37 @@
-# Hello, I'm [Your Name] 👋
+# Buenas, Yo soy Sebastian Pardo(UserSCP) 👋
 
-Welcome to my GitHub profile! I'm a high school student at Confederación Suiza, passionate about learning and coding. Here's a bit about me:
+¡Bienvenido a mi perfil de GitHub! Soy estudiante de secundaria en Confederación Suiza, apasionado por aprender y codificar. Aquí hay un poco sobre mí:
 
-## 💻 Technologies & Languages
+## 💻 Tecnologías y Idiomas
 
-### Currently Learning:
-- **Laravel**: Exploring the world of PHP frameworks.
-- **JavaScript**: Enhancing my web development skills.
-- **Java**: Diving into object-oriented programming.
+### Actualmente aprendiendo:
+- **Laravel**: Explorando el mundo de los frameworks PHP.
+- **JavaScript**: Mejorando mis habilidades de desarrollo web.
+- **Java**: Mejorando comprencion de programación orientada a objetos.
+- **Python:** Explorando el análisis de datos, automatización y desarrollo web con frameworks.
 
-### Already Proficient In:
-- **SQL**: Database management and queries.
-- **PHP**: Server-side scripting and web development.
-- **HTML & CSS**: Building and styling web pages.
-- **C#**: .NET applications and game development with Unity.
-- **C++**: Systems programming and software development.
+### Ya dominas en:
+- **SQL**: Gestión y consultas de bases de datos.
+- **PHP**: scripting del lado del servidor y desarrollo web.
+- **HTML y CSS**: creación y diseño de páginas web.
+- **C#**: desarrollo de aplicaciones y juegos .NET con Unity.
+- **C++**: Programación de sistemas y desarrollo de software.
+(tengo fe)
 
-## 📚 Education
-- **High School**: Confederación Suiza
+## 📚 Educación
+- **Escuela secundaria**: "Confederación Suiza" Tecnica n°26 DE n°6
+  
+## 📈 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🌱 Projects & Goals
-- Building web applications with Laravel.
-- Creating interactive websites using JavaScript.
-- Developing robust applications in Java.
-
-## 📫 Connect with Me
+## 🌱 Proyectos y objetivos
+- Construcción de aplicaciones web con Laravel.
+- Creación de sitios web interactivos utilizando JavaScript.
+- Desarrollo de aplicaciones robustas en Java.
+- Desarrollo de pequeños proyectos en python
+  
+## 📫 Conéctate Conmigo
 - [Email](sebastian.pardo.scp@gmail.com)
-- [LinkedIn](en tramite)
+- [LinkedIn](en conversación)
 
-Th
+¡Gracias por visitar mi perfil! Siempre estoy abierto a oportunidades de colaboración y aprendizaje.
