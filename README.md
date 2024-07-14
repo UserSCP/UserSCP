@@ -39,7 +39,7 @@
 - [Email](sebastian.pardo.scp@gmail.com)
 - [LinkedIn](en conversación)
 --Intereses: anime(de todo), juegos(minecraft), codificar(encuentrar y manejar logica), musica(Gustavo Cerati, Spinetta,c)  
-
+```csharp
 using System;
 
 namespace datosExtra
