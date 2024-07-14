@@ -22,7 +22,7 @@
 - **Escuela secundaria**: "Confederación Suiza" Tecnica n°26 DE n°6
   
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=UserSCP&show_icons=true&theme=radical)
 
 ## 🌱 Proyectos y objetivos
 - Construcción de aplicaciones web con Laravel.
